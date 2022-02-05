@@ -1,7 +1,6 @@
 # Repository Downloader Bot
-* This bot is built with Python
-* To make sure the bot is running without bugs, you must install Chrome driver:
-1. Type chrome://version in your Chrome search bar and get your Chrome browser version.
-2. Install Chrome driver for the version that you got in the 1st step.
-3. Go to the C:// and create a new folder with the name "SeleniumDrivers".
-4. Extract the Chrome driver and paste it in the "SeleniumDrivers" folder that you have created.
+* Running requirements:
+1. Python3.X installed in your machine
+2. Chrome driver installed in your machine
+3. In line 8 in run.py, you should tell the script where you stored the Chrome driver that you have installed
+4. Make sure to extract the Chrome driver ZIP file and put it in some place in your machine
